@@ -1,0 +1,5 @@
+Test
+cmake-build-debug
+cmake-build-release
+cmake-build-debug-mingw-w64
+cmake-build-release-mingw-w64
